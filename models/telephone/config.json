@@ -1,0 +1,40 @@
+{
+  "target": "etat",
+  "target_idx": 2,
+  "features": [
+    {
+      "name": "prix",
+      "kind": "num",
+      "default": 362043.0,
+      "step": 1.0
+    },
+    {
+      "name": "adresse",
+      "kind": "cat",
+      "idx": 0
+    },
+    {
+      "name": "marque",
+      "kind": "cat",
+      "idx": 1
+    },
+    {
+      "name": "dim_ecr",
+      "kind": "num",
+      "default": 6.0,
+      "step": 1.0
+    },
+    {
+      "name": "ram",
+      "kind": "num",
+      "default": 12.0,
+      "step": 1.0
+    },
+    {
+      "name": "stockage",
+      "kind": "num",
+      "default": 157.0,
+      "step": 1.0
+    }
+  ]
+}
